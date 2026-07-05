@@ -66,9 +66,7 @@ class Nehal:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehalaftab05-web&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalaftab05-web&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&cache_seconds=86400" height="150" alt="top languages" />
-</div>
+
 
 <br/>
 
