@@ -62,7 +62,7 @@ class Nehal:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nehalaftab05-web&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" height="165" alt="stats graph" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehalaftab05-web&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
 </div>
 
