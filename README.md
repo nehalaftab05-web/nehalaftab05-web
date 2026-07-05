@@ -21,7 +21,7 @@
 class Nehal:
     name = "Nehal Aftab"
     university = "FAST-NUCES, Faisalabad"
-    roles = ["Frontend Developer", "Web Developer", "UI/UX Developer"]
+    roles = ["Frontend Developer", "Web Developer", "AI Engineer","Software Engineer","UI/UX Developer"]
     cgpa = 3.18
     open_to_internships = True
 
