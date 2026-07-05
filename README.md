@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nehal Aftab 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=500&color=A0A0A0&center=true&vCenter=true&width=550&height=35&lines=Frontend+Developer;Software+Developer;Web+Developer;UI%2FUX+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A0A0A0&height=200&section=header&text=NEHAL%20AFTAB&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=&descSize=0" width="100%"/>
 
 <br/>
 
@@ -19,11 +17,10 @@
 
 ```python
 class Nehal:
-    name = "Nehal Aftab"
-    university = "FAST-NUCES, Faisalabad"
-    roles = ["Frontend Developer", "Web Developer", "AI Engineer","Software Engineer","UI/UX Developer"]
-    cgpa = 3.18
-    open_to_internships = True
+    university   = "FAST-NUCES, Faisalabad"
+    focus        = ["Frontend Development", "UI/UX Design", "AI & Software Engineering"]
+    cgpa         = 3.18
+    open_to_work = True
 
     def say_hi(self):
         print("Let's build something people actually enjoy using.")
@@ -31,22 +28,33 @@ class Nehal:
 
 <br/>
 
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/nehalaftab05-web/nehalaftab05-web/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 **Frontend & Design**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**Languages & Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 **Tools & Platforms**
 
@@ -63,10 +71,12 @@ class Nehal:
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehalaftab05-web&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=nehalaftab05-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehalaftab05-web&theme=tokyonight&hide_border=true" height="165" alt="streak stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalaftab05-web&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages"/>
+
 </div>
-
-
 
 <br/>
 
@@ -86,7 +96,7 @@ class Nehal:
 ## 🎓 Leadership & Involvement
 
 > **Teaching Assistant — Expository Writing**, FAST-NUCES
-> Guiding students on structuring arguments and clear technical writing — the same clarity principles I carry into UI copy and UX flows.
+> Guiding students on structuring arguments and clear technical writing — the same clarity principles carried into UI copy and UX flows.
 
 > **Social Media Co-Head — FAST Photography Society**
 > Leading visual storytelling and content strategy across the society's digital platforms.
@@ -102,6 +112,8 @@ class Nehal:
 [![GitHub](https://img.shields.io/badge/-nehalaftab05--web-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/nehalaftab05-web)
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A0A0A0,100:6C63FF&height=100&section=footer"/>
 
 <sub>Built with ☕ and a lot of tab-switching between VS Code and Figma.</sub>
 
