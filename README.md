@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi%2C+I'm+Nehal+Aftab+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer;AI+%26+Software+Engineer+in+Progress" alt="Typing SVG" />
+# Hi, I'm Nehal Aftab 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=500&color=A0A0A0&center=true&vCenter=true&width=550&height=35&lines=Frontend+Developer;Software+Developer;Web+Developer;UI%2FUX+Developer" alt="Typing SVG" />
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-nehalaftab05--web-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://nehalaftab05-web.github.io/NEHAL-AFTAB-PORTFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nehal--aftab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nehal-aftab)
 [![Gmail](https://img.shields.io/badge/Email-nehalaftabwork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehalaftabwork@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nehalaftab05--web-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nehalaftab05-web)
@@ -14,32 +17,16 @@
 
 ## 🧭 About Me
 
-```cpp
-class NehalAftab : public Developer {
-public:
-    std::string name         = "Nehal Aftab";
-    std::string university   = "FAST-NUCES, Faisalabad";
-    std::string batch        = "2024 - 2028";
-    std::string hometown     = "Hafizabad, Punjab";
-    double      cgpa         = 3.18;
+```python
+class Nehal:
+    name = "Nehal Aftab"
+    university = "FAST-NUCES, Faisalabad"
+    roles = ["Frontend Developer", "Web Developer", "UI/UX Developer"]
+    cgpa = 3.18
+    open_to_internships = True
 
-    std::vector<std::string> roles = {
-        "Teaching Assistant - Expository Writing",
-        "Social Media Co-Head - FAST Photography Society"
-    };
-
-    std::vector<std::string> currentlyExploring = {
-        "Full-stack MERN development",
-        "AI/ML architectures & search algorithms",
-        "UI/UX systems & interactive prototyping"
-    };
-
-    bool openToInternships = true;
-
-    void sayHi() {
-        std::cout << "Let's build something people actually enjoy using." << std::endl;
-    }
-};
+    def say_hi(self):
+        print("Let's build something people actually enjoy using.")
 ```
 
 <br/>
@@ -66,7 +53,7 @@ public:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -75,12 +62,12 @@ public:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nehalaftab05-web&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nehalaftab05-web&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" height="165" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehalaftab05-web&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalaftab05-web&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" height="150" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalaftab05-web&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&cache_seconds=86400" height="150" alt="top languages" />
 </div>
 
 <br/>
