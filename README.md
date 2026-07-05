@@ -72,7 +72,7 @@ class Nehal:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nehalaftab05-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehalaftab05-web&theme=tokyonight&hide_border=true" height="165" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=nehalaftab05-web&theme=tokyonight&hide_border=true" height="165" alt="streak stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalaftab05-web&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages"/>
 
