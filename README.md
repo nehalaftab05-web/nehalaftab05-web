@@ -71,10 +71,11 @@ class Nehal:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nehalaftab05-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats"/>
-<img src="https://streak-stats.demolab.com/?user=nehalaftab05-web&theme=tokyonight&hide_border=true" height="165" alt="streak stats"/>
+<img src="https://raw.githubusercontent.com/nehalaftab05-web/nehalaftab05-web/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats"/>
+<img src="https://streak-stats.demolab.com/?user=nehalaftab05-web&theme=tokyonight&hide_border=true" height="200" alt="streak stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalaftab05-web&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top languages"/>
+<img src="https://raw.githubusercontent.com/nehalaftab05-web/nehalaftab05-web/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language"/>
+<img src="https://raw.githubusercontent.com/nehalaftab05-web/nehalaftab05-web/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language"/>
 
 </div>
 
