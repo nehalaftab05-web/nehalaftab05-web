@@ -72,7 +72,7 @@ class Nehal:
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/nehalaftab05-web/nehalaftab05-web/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats"/>
-<img src="https://streak-stats.demolab.com/?user=nehalaftab05-web&theme=tokyonight&hide_border=true" height="200" alt="streak stats"/>
+<img src="https://raw.githubusercontent.com/nehalaftab05-web/nehalaftab05-web/main/streak-stats.svg" height="200" alt="streak stats"/>
 
 <img src="https://raw.githubusercontent.com/nehalaftab05-web/nehalaftab05-web/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language"/>
 <img src="https://raw.githubusercontent.com/nehalaftab05-web/nehalaftab05-web/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language"/>
