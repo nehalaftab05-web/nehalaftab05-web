@@ -102,8 +102,8 @@ class Nehal:
 > **Social Media Co-Head — FAST Photography Society**
 > Leading visual storytelling and content strategy across the society's digital platforms.
 
-> **Usher — Job Fair 2026**, representing Ibtada Solutions
-> Facilitated attendee flow and guest experience at the university's flagship recruitment event, coordinating on behalf of Ibtada Solutions throughout the fair.
+> **Usher — Job Fair 2026**, FAST-NUCES Chiniot-Faisalabad Campus
+> Served as an usher for the university's Job Fair 2026, held on April 22, 2026.
 
 > **Decor Team — Daira 2026**
 > Contributed to the campus-wide decoration effort for FAST-NUCES's annual flagship event, helping transform the entire campus for the occasion.
